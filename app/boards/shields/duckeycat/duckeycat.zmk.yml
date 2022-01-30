@@ -1,0 +1,10 @@
+file_format: "1"
+id: duckeycat
+name: duckeycat
+type: shield
+url: https://github.com/MrDuc123/Duckeyboard.git
+requires:
+  - pro_micro
+exposes:
+features:
+  - keys
