@@ -1,7 +1,2 @@
-if SHIELD_DUCKEYCAT
-
 config ZMK_KEYBOARD_NAME
 	default "Duckeycat"
-
-endif
-
